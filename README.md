@@ -7,7 +7,7 @@
   <img src="bus.png" alt="EasyBus Logo" width="250"/>
 </p>
 
-<h1 align="center">🚌 EasyBus – Bus Management System</h1>
+
 
 
 ##  Features
