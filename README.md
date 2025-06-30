@@ -3,6 +3,12 @@
 **EasyBus** is a terminal-based bus reservation system built using **C** and classic **Data Structures and Algorithms (DSA)**. Designed to simulate real-world bus operations, the system allows users to book and cancel tickets, track seat availability, and calculate the shortest route between stops using graph-based algorithms.
 
 ---
+<p align="center">
+  <img src="bus.png" alt="EasyBus Logo" width="250"/>
+</p>
+
+<h1 align="center">🚌 EasyBus – Bus Management System</h1>
+
 
 ##  Features
 
