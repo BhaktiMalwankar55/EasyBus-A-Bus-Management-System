@@ -1,10 +1,10 @@
-# 🚌 EasyBus – Terminal-Based Bus Management System in C
+# EasyBus – Terminal-Based Bus Management System in C
 
 **EasyBus** is a terminal-based bus reservation system built using **C** and classic **Data Structures and Algorithms (DSA)**. Designed to simulate real-world bus operations, the system allows users to book and cancel tickets, track seat availability, and calculate the shortest route between stops using graph-based algorithms.
 
 ---
 
-## 📌 Features
+##  Features
 
 - **Schedule Management:** Add/view bus details including route, timings, and seats.
 - **Ticket Booking & Cancellation:** Real-time seat tracking with persistent storage using file handling.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Category       | Tools/Concepts Used             |
 |----------------|---------------------------------|
